@@ -34,7 +34,7 @@ $0: [options] [src] dst
     if src is a directory,  everything in it is copied recursively to dst
     with special files removed (currently CVS and Subversion dirs).
 EOF
-	exit 1
+    exit 1
 }
 
 #############################################################################
