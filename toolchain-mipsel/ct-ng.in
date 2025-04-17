@@ -34,7 +34,7 @@ endif
 export CT_VERSION:=@PACKAGE_VERSION@
 
 # Export with an empty value: this masks the version detection variable in
-# user-visible configurators, and suppresses a warning from kconfig.
+# user-visible configurators, and suppresses a warning from kconfig. 
 export CT_VCHECK=
 
 # Current version of the configuration file. Defined here, because we also
