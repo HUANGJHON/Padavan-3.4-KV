@@ -8,10 +8,10 @@
 #define BOARD_BOOT_TIME		20
 #define BOARD_FLASH_TIME	120
 #define BOARD_GPIO_BTN_RESET	18
-#define  BOARD_GPIO_BTN_WPS		6
+#define BOARD_GPIO_BTN_WPS		6
 #undef  BOARD_GPIO_LED_ALL
 #undef  BOARD_GPIO_LED_WIFI
-#define  BOARD_GPIO_LED_WAN
+#define BOARD_GPIO_LED_WAN    
 #define BOARD_GPIO_LED_POWER	8		/* sys_green: 8, sys_red: 7 */
 #undef  BOARD_GPIO_LED_LAN
 #undef  BOARD_GPIO_LED_USB
